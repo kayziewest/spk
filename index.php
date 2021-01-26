@@ -1,0 +1,595 @@
+	<!DOCTYPE html>
+	<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="img/logo.png">
+		<!-- Author Meta -->
+		<meta name="author" content="colorlib">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>Havilla Royale Schools</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+			<!--
+			CSS
+			============================================= -->
+			<link rel="stylesheet" href="css1/linearicons.css">
+			<link rel="stylesheet" href="css1/font-awesome.min.css">
+			<link rel="stylesheet" href="css1/bootstrap.css">
+			<link rel="stylesheet" href="css1/magnific-popup.css">
+			<link rel="stylesheet" href="css1/nice-select.css">							
+			<link rel="stylesheet" href="css1/animate.min.css">
+			<link rel="stylesheet" href="css1/owl.carousel.css">			
+			<link rel="stylesheet" href="css1/jquery-ui.css">			
+			<link rel="stylesheet" href="css1/main.css">
+		</head>
+		<body>	
+		  <header id="header" id="home">
+	  		<div class="header-top">
+	  			<div class="container">
+			  		<div class="row">
+			  			<div class="col-lg-6 col-sm-6 col-8 header-top-left no-padding">
+			  				<ul>
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+								<li><a href="#"><i class="fa fa-behance"></i></a></li>
+			  				</ul>			
+			  			</div>
+			  			<div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">
+			  				<a href="tel:+08037277308"><span class="lnr lnr-phone-handset"></span> <span class="text">+234-8037277308-</span></a>
+			  				<a href="mailto:sochi4all@gmail.com"><span class="lnr lnr-envelope"></span> <span class="text">havillaroyaleschools2@gmail.com</span></a>			
+			  			</div>
+			  		</div>			  					
+	  			</div>
+			</div>
+		    <div class="container main-menu">
+		    	<div class="row align-items-center justify-content-between d-flex">
+			      <div id="logo">
+			        <a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
+			      </div>
+			      <nav id="nav-menu-container">
+			        <ul class="nav-menu">
+			          <li><a href="index.php">Home</a></li>
+			          <li><a style=color:#FFF; href="#">About Havilla</a></li>
+			          <li><a href="#">Classes</a></li>
+			          <li><a style=color:#FFF; href="#">Events</a></li>
+			          <li><a href="#">Gallery</a></li>
+			          <li class="menu-has-children"><a style=color:#FFF; href="">News</a>
+			            <ul>
+			              <li><a href="#">Primary Section</a></li>
+			              <li><a href="#">Secondary Section</a></li>
+			            </ul>
+			          </li>	
+			          <li class="menu-has-children"><a style=color:#FFF; href="">Portal</a>
+			            <ul>
+			              <li><a href="login.php"> Staff Login</a></li>
+			              <li><a href="login.php">Student Login</a></li>
+			              <li><a href="login.php">Result Checker</a></li>
+			            </ul>
+			          </li>	
+			          <li class="menu-has-children"><a href="">Havilla Catalog</a>
+			            <ul>
+		              		<li><a href="#">School Calender</a></li>		
+		              		<li><a href="#">Our Fees Structure </a></li>		
+			                <li><a href="#"> Our Curriculum</a></li>
+					          <li class="menu-has-children"><a href="">School Portal </a>
+					            <ul>
+					              <li><a style=color:#FFF; href="#">Staff</a></li>
+					              <li><a href="#"> Students </a></li>
+					            </ul>
+					          </li>					                		
+			            </ul>
+			          </li>					          					          		          
+			          <li><a href="#">Contact Us</a></li>
+			        </ul>
+			      </nav><!-- #nav-menu-container -->		    		
+		    	</div>
+		    </div>
+		  </header><!-- #header -->
+
+			<!-- start banner Area -->
+			<section class="banner-area relative" id="home">
+				<div class="overlay overlay-bg"></div>	
+				<div class="container">
+					<div class="row fullscreen d-flex align-items-center justify-content-between">
+						<div class="banner-content col-lg-9 col-md-12">
+							<h1 class="text-uppercase">
+								Here at Havilla Royale, We provide Quality education for your kids. 
+							</h1>
+							<p class="pt-10 pb-10">
+								Ever Since We Launched in 2010, we have proved ourselves to be a leading centre of creative learning, raising a future generation of leaders and innovators.
+							</p>
+							<a href="login.php" class="primary-btn text-uppercase">ENROLL HERE</a>
+						</div>										
+					</div>
+				</div>					
+			</section>
+			<!-- End banner Area -->
+
+			<!-- Start feature Area -->
+			<section class="feature-area">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="single-feature">
+								<div class="title">
+									<h4>Learn About Havilla</h4>
+								</div>
+								<div class="desc-wrap">
+									<p>
+										Here at Havilla We believe that education is not just about learning subjects but also about learning the value of being a good person. We build characters, form and develop the total person. Thus our curriculum is geared towards developing the intellectual, physiological, psychological, ethical, social and spiritual dimensions of the learners..
+									</p>
+									<a href="#">Join Us Today!</a>									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-feature">
+								<div class="title">
+									<h4> Why Parents Choose Us</h4>
+								</div>
+								<div class="desc-wrap">
+									<p>
+										We serve our community by working in partnership with parents to provide education of the highest quality within the context of Christian belief and practice, and understanding of shared values. A good standard of behaviour is expected in order to provide the correct working environment
+									</p>
+									<a href="#">Join Us Now</a>									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-feature">
+								<div class="title">
+									<h4> Our Culture</h4>
+								</div>
+								<div class="desc-wrap">
+									<p>
+										Our school culture is a collection of our traditions, beliefs, policies and norms within our community. Our culture shapes, defines and gives expression to who we are as a school. We uphold the content of our culture and we remain determined to defend the document as Administrators, Teachers, Students, Parents and the whole Havilla community.
+									</p>
+									<a href="#">Join Now</a>									
+								</div>
+							</div>
+						</div>												
+					</div>
+				</div>	
+			</section>
+			<!-- End feature Area -->
+					
+			<!-- Start popular-course Area -->
+			<section class="popular-course-area section-gap">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-70 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">Unique Features we offer</h1>
+								<p>There is a moment we hope to tap into in the life of any aspiring child, the moment of awakening and self realization of their purpose.</p>
+							</div>
+						</div>
+					</div>						
+					<div class="row">
+						<div class="active-popular-carusel">
+							<div class="single-popular-carusel">
+								<div class="thumb-wrap relative">
+									<div class="thumb relative">
+										<div class="overlay overlay-bg"></div>	
+										<img class="img-fluid" src="img/p1.jpg" alt="">
+									</div>
+									<div class="meta d-flex justify-content-between">
+										<p><span class="lnr lnr-users"></span> Mrs. Amarachi <span class="lnr lnr-bubble"></span>35 Kids</p>
+										<h4>JSS1-3</h4>
+									</div>									
+								</div>
+								<div class="details">
+									<a href="#">
+										<h4>
+											Havilla Mathematics Development Programme for Aspiring Engineers
+										</h4>
+									</a>
+									<p>
+										We know the technicalities around children having the phobia for arithmetic and here at Havilla we tackle such issues with creative and fun ways to learn Maths.									
+									</p>
+								</div>
+							</div>	
+							<div class="single-popular-carusel">
+								<div class="thumb-wrap relative">
+									<div class="thumb relative">
+										<div class="overlay overlay-bg"></div>	
+										<img class="img-fluid" src="img/p2.jpg" alt="">
+									</div>
+									<div class="meta d-flex justify-content-between">
+										<p><span class="lnr lnr-users"></span> Mr. Uche <span class="lnr lnr-bubble"></span>35 Kids</p>
+										<h4> SS1-3 </h4>
+									</div>									
+								</div>
+								<div class="details">
+									<a href="#">
+										<h4>
+											Havilla Speech Improvement Programme
+										</h4>
+									</a>
+									<p>
+										Learn Phonetics the Havilla way, Spoken English has never been more interesting , Learn with us today.										
+									</p>
+								</div>
+							</div>	
+							<div class="single-popular-carusel">
+								<div class="thumb-wrap relative">
+									<div class="thumb relative">
+										<div class="overlay overlay-bg"></div>	
+										<img class="img-fluid" src="img/p3.jpg" alt="">
+									</div>
+									<div class="meta d-flex justify-content-between">
+										<p><span class="lnr lnr-users"></span> Mr. Jude <span class="lnr lnr-bubble"></span>35 Kids</p>
+										<h4>Primary 1-6</h4>
+									</div>									
+								</div>
+								<div class="details">
+									<a href="#">
+										<h4>
+											Havilla Computer Science and Technology Programmer
+										</h4>
+									</a>
+									<p>
+										We train our children to be proficient with the latest technology and the science behind its functionalities. 										
+									</p>
+								</div>
+							</div>	
+							<div class="single-popular-carusel">
+								<div class="thumb-wrap relative">
+									<div class="thumb relative">
+										<div class="overlay overlay-bg"></div>	
+										<img class="img-fluid" src="img/p1.jpg" alt="">
+									</div>
+									<div class="meta d-flex justify-content-between">
+										<p><span class="lnr lnr-users"></span> Mrs. Enahoro <span class="lnr lnr-bubble"></span>35 Kids</p>
+										<h4> PRY 6</h4>
+									</div>									
+								</div>
+								<div class="details">
+									<a href="#">
+										<h4>
+											Havilla Spelling Bee 
+										</h4>
+									</a>
+									<p>
+										We train our children to be proficient with spelling and diction.										
+									</p>
+								</div>
+							</div>
+							<div class="single-popular-carusel">
+								<div class="thumb-wrap relative">
+									<div class="thumb relative">
+										<div class="overlay overlay-bg"></div>	
+										<img class="img-fluid" src="img/p1.jpg" alt="">
+									</div>
+									<div class="meta d-flex justify-content-between">
+										<p><span class="lnr lnr-users"></span> Mrs. Amarachi <span class="lnr lnr-bubble"></span>35 Kids</p>
+										<h4>All Classes</h4>
+									</div>									
+								</div>
+								<div class="details">
+									<a href="#">
+										<h4>
+											Reading and Writing Creative Programme
+										</h4>
+									</a>
+									<p>
+										We train our children to be excellent in their literal prowess. Reading and Writing is an art 										
+									</p>
+								</div>
+							</div>	
+							<div class="single-popular-carusel">
+								<div class="thumb-wrap relative">
+									<div class="thumb relative">
+										<div class="overlay overlay-bg"></div>	
+										<img class="img-fluid" src="img/p2.jpg" alt="">
+									</div>
+									<div class="meta d-flex justify-content-between">
+										<p><span class="lnr lnr-users"></span> Mrs. Amarachi <span class="lnr lnr-bubble"></span>35 Kids</p>
+										<h4>All Classes</h4>
+									</div>									
+								</div>
+								<div class="details">
+									<a href="#">
+										<h4>
+											Havilla JETS Club Special
+										</h4>
+									</a>
+									<p>
+										We train our children to be proficient with the latest technology and the science behind its functionalities.										
+									</p>
+								</div>
+							</div>	
+							<div class="single-popular-carusel">
+								<div class="thumb-wrap relative">
+									<div class="thumb relative">
+										<div class="overlay overlay-bg"></div>	
+										<img class="img-fluid" src="img/p3.jpg" alt="">
+									</div>
+									<div class="meta d-flex justify-content-between">
+										<p><span class="lnr lnr-users"></span> Mrs. Amarachi <span class="lnr lnr-bubble"></span>35 Kids</p>
+										<h4>All Classes</h4>
+									</div>									
+								</div>
+								
+							</div>							
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End popular-course Area -->
+			
+
+			<!-- Start search-course Area -->
+			<section class="search-course-area relative">
+				<div class="overlay overlay-bg"></div>
+				<div class="container">
+					<div class="row justify-content-between align-items-center">
+						<div class="col-lg-6 col-md-6 search-course-left">
+							<h1 class="text-white">
+								Get reduced fee <br>
+								during this term!
+							</h1>
+							<p>
+								Register mid-term or before a new term and get a discounted fee for registration.
+							</p>
+							<div class="row details-content">
+								<div class="col single-detials">
+									<span class="lnr lnr-graduation-hat"></span>
+									<a href="#"><h4>Expert Teachers</h4></a>		
+									<p>
+										Usage of the Internet is becoming more common due to rapid advancement of technology and power, We have included that in every part of our curriculum.
+									</p>						
+								</div>
+								<div class="col single-detials">
+									<span class="lnr lnr-license"></span>
+									<a href="#"><h4> Tested Learning Methods</h4></a>		
+									<p>
+										Fun Learning Ways to make all children learn and enjoy learning
+									</p>						
+								</div>								
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 search-course-right section-gap">
+							<form class="form-wrap" action="#">
+								<h4 class="text-white pb-20 text-center mb-30">Make Enquiries</h4>		
+								<input type="text" class="form-control" name="name" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" >
+								<input type="phone" class="form-control" name="phone" placeholder="Your Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Phone Number'" >
+								<input type="email" class="form-control" name="email" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address'" >
+								<div class="form-select" id="service-select">
+									<select>
+										<option datd-display="">Choose Class</option>
+										<option value="1">Primary</option>
+										<option value="2">Junior Secondary</option>
+										<option value="3">Senior Secondary</option>
+										<option value="4">Pre- School, Creche & Nursery</option>
+									</select>
+								</div>									
+								<button class="primary-btn text-uppercase">Submit</button>
+							</form>
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End search-course Area -->
+			
+		
+			<!-- Start upcoming-event Area -->
+			<section class="upcoming-event-area section-gap">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-70 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">Upcoming Events of our Institute</h1>
+								<p>If you love fun learning and academic dedication infused with technology , youll love us</p>
+							</div>
+						</div>
+					</div>								
+					<div class="row">
+						<div class="active-upcoming-event-carusel">
+							<div class="single-carusel row align-items-center">
+								<div class="col-12 col-md-6 thumb">
+									<img class="img-fluid" src="img/e1.jpg" alt="">
+								</div>
+								<div class="detials col-12 col-md-6">
+									<p>14th February, 2021</p>
+									<a href="#"><h4> Gifting and Sharing Day (Valentines)
+									</h4></a>
+									<p>
+										For most of us, the idea of gifting is beautiful, as Jesus instructed us to Love, we teach our children to Love one another selflessly.
+									</p>
+								</div>
+							</div>
+							<div class="single-carusel row align-items-center">
+								<div class="col-12 col-md-6 thumb">
+									<img class="img-fluid" src="img/e2.jpg" alt="">
+								</div>
+								<div class="detials col-12 col-md-6">
+									<p>11th January, 2021</p>
+									<a href="#"><h4>New Term Begins
+									</h4></a>
+									<p>
+										We cant wait to have you resume back after a beautiful holiday</p>
+								</div>
+							</div>	
+							<div class="single-carusel row align-items-center">
+								<div class="col-12 col-md-6 thumb">
+									<img class="img-fluid" src="img/e1.jpg" alt="">
+								</div>
+								<div class="detials col-12 col-md-6">
+									<p>25th March, 2021</p>
+									<a href="#"><h4>Open Day</h4></a>
+									<p>
+										Parental Class Supervision and Assessment Day.
+									</p>
+								</div>
+							</div>	
+							<div class="single-carusel row align-items-center">
+								<div class="col-12 col-md-6 thumb">
+									<img class="img-fluid" src="img/e1.jpg" alt="">
+								</div>
+								
+							</div>																						
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End upcoming-event Area -->
+						
+			<!-- Start review Area -->
+			<section class="review-area section-gap relative">
+				<div class="overlay overlay-bg"></div>
+				<div class="container">				
+					<div class="row">
+						<div class="active-review-carusel">
+							<div class="single-review item">
+								<div class="title justify-content-start d-flex">
+									<a href="#"><h4>Amarachi Onwenna</h4></a>
+									<div class="star">
+										<span class="fa fa-star checked"></span>
+										<span class="fa fa-star checked"></span>
+										<span class="fa fa-star checked"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+									</div>
+								</div>
+								<p>
+									Having my Kids back in school is something I look forward to every term, Its a beautiful thing we are creating here, A true new generation of Leaders
+								</p>
+							</div>
+							<div class="single-review item">
+								<div class="title justify-content-start d-flex">
+									<a href="#"><h4>Sochi Chikezie</h4></a>
+									<div class="star">
+										<span class="fa fa-star checked"></span>
+										<span class="fa fa-star checked"></span>
+										<span class="fa fa-star checked"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+									</div>
+								</div>
+								<p>
+									Im excited to see how our kids perform in every exam because of how prepared they always are and how  deeply rooted their understanding of basic foundational principles are.
+								</p>
+							</div>
+																																			
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End review Area -->	
+			
+			<!-- Start cta-one Area -->
+			<section class="cta-one-area relative section-gap">
+				<div class="container">
+					<div class="overlay overlay-bg"></div>
+					<div class="row justify-content-center">
+						<div class="wrap">
+							<h1 class="text-white">Join Our Staff</h1>
+							<p>
+								Excited to join our team of revolutionary academics raising a new generation of leaders, Its more than just teaching.
+							</p>
+							<a class="primary-btn wh" href="#">Apply to Join Us</a>								
+						</div>					
+					</div>
+				</div>	
+			</section>
+			<!-- End cta-one Area -->
+
+						
+			<!-- start footer Area -->		
+			<footer class="footer-area section-gap">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-2 col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+								<h4>Our Staff</h4>
+								<ul>
+									<li><a href="#">Primary</a></li>
+									<li><a href="#">Secondary</a></li>
+									<li><a href="#">Creche and Pre- School</a></li>
+									<li><a href="#">Non Teaching Staff</a></li>
+								</ul>								
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+								<h4>Students</h4>
+								<ul>
+									<li><a href="#">Prefects</a></li>
+									<li><a href="#">Class Timetable</a></li>
+									<li><a href="#">Academic Calendar</a></li>
+									<li><a href="#">Report a Student</a></li>
+								</ul>								
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+								<h4>Events</h4>
+								<ul>
+									<li><a href="#"> Competitions</a></li>
+									<li><a href="#">Examinations</a></li>
+									<li><a href="#">Sports Activities</a></li>
+									<li><a href="#">Parties</a></li>
+								</ul>								
+							</div>
+						</div>
+						<div class="col-lg-4  col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+								<h4>Newsletter</h4>
+								<p>Stay update with our latest</p>
+								<div class="" id="mc_embed_signup">
+									 <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get">
+									  <div class="input-group">
+									    <input type="text" class="form-control" name="EMAIL" placeholder="Enter Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email Address '" required="" type="email">
+									    <div class="input-group-btn">
+									      <button class="btn btn-default" type="submit">
+									        <span class="lnr lnr-arrow-right"></span>
+									      </button>    
+									    </div>
+									    	<div class="info"></div>  
+									  </div>
+									</form> 
+								</div>
+							</div>
+						</div>											
+					</div>
+					<div class="footer-bottom row align-items-center justify-content-between">
+						<p class="footer-text m-0 col-lg-6 col-md-12">
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://linkedin.com/in/jude-chikezie" target="_blank">Chikezie Jude Jr.</a> &amp; distributed by <a href="https://themewagon.com" target="_blank"> KZWEST</a>
+></p>
+						<div class="col-lg-6 col-sm-12 footer-social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-dribbble"></i></a>
+							<a href="#"><i class="fa fa-behance"></i></a>
+						</div>
+					</div>						
+				</div>
+			</footer>	
+			<!-- End footer Area -->	
+
+
+			<script src="js1/vendor/jquery-2.2.4.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+			<script src="j1s/vendor/bootstrap.min.js"></script>			
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+  			<script src="js1/easing.min.js"></script>			
+			<script src="js1/hoverIntent.js"></script>
+			<script src="js1/superfish.min.js"></script>	
+			<script src="js1/jquery.ajaxchimp.min.js"></script>
+			<script src="js1/jquery.magnific-popup.min.js"></script>	
+    		<script src="js1/jquery.tabs.min.js"></script>						
+			<script src="js1/jquery.nice-select.min.js"></script>	
+			<script src="js1/owl.carousel.min.js"></script>									
+			<script src="js1/mail-script.js"></script>	
+			<script src="js1/main.js"></script>	
+		</body>
+	</html>
